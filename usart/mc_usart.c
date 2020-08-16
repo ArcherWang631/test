@@ -9,4 +9,8 @@
 #include "mc_usart.h"
 
 
-
+int main()
+{
+    
+    return 0;
+}
